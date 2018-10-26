@@ -19,7 +19,7 @@ navigation:
 
 comments:
   disqus: "disqus-contrast"
-shortname: glosa-virtual
+shortname: "glosa-virtual"
 #  isso: "comments.mysite.org"
 export JEKYLL_ENV=production
 
