@@ -18,7 +18,7 @@ navigation:
   - about.md
 
 comments:
-  disqus: "disqus-contrast"
+  disqus: "glosa-virtual"
 shortname: "glosa-virtual"
 site.comments.disqus: "glosa-virtual"
 #  isso: "comments.mysite.org"
