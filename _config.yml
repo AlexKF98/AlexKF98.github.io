@@ -14,8 +14,8 @@ style:
 
 navigation:
   - index.html
-  - archive.html
-  - about.md
+  - arquivo.html
+  - sobre.md
 
 comments:
   disqus: "glosa-virtual"
