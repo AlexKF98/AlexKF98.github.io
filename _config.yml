@@ -2,7 +2,7 @@ title: "Glosa Virtual"
 author: "Alexandre"
 description: "Ius est ars boni et aequi."
 more: "Continuar lendo »"
-url: "https://alexkf98.github.io/"
+url: "https://alexkf98.github.io"
 baseurl: ""
 paginate: 2
 permalink: pretty
@@ -19,7 +19,9 @@ navigation:
 
 comments:
   disqus: "disqus-contrast"
+shortname: glosa-virtual
 #  isso: "comments.mysite.org"
+export JEKYLL_ENV=production
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
 #- twitter: "https://twitter.com/twitter/"
