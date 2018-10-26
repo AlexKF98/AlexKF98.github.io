@@ -22,7 +22,6 @@ comments:
 shortname: "glosa-virtual"
 site.comments.disqus: "glosa-virtual"
 #  isso: "comments.mysite.org"
-export JEKYLL_ENV=production
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
 #- twitter: "https://twitter.com/twitter/"
