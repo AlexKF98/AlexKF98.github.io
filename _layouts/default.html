@@ -1,12 +1,12 @@
 ---
-layout: blank
+layout: blank 
 ---
 <main>
   <article>
     <header>
       <h1><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-      <time datetime="{{ page.date | date_to_xmlschema }}">{% assign m = page.date | date: "%-m" %} 
-{{ page.date | date: "%-d" }} de 
+       <time datetime="{{ page.date | date_to_xmlschema }}">{% assign m = page.date | date: "%-m" %} 
+{{ page.date | date: "%-d de" }} 
 {% case m %}
   {% when '1' %}janeiro
   {% when '2' %}fevereiro
@@ -20,8 +20,8 @@ layout: blank
   {% when '10' %}outubro
   {% when '11' %}novembro
   {% when '12' %}dezembro
-{% endcase %} de 
-{{ page.date | date: "%Y" }}</time>
+{% endcase %}
+{{ page.date | date: "de %Y" }}</time>
     </header>
 {{ content }}
     {% if site.comments.isso and page.comments %}
