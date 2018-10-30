@@ -26,3 +26,7 @@ Some scientists believe that humans appreciate the rain scent because ancestors 
 2. ipsum
 3. dolor
 4. sit amet
+
+Teste de nota.[^1]
+
+[^1]Rodapé.
